@@ -15,12 +15,12 @@ random.seed(seed_valor)
 
 n = 50
 
-# Agora precisamos gerar os dados fictícios
+# Agora precisamos gerar os dados fictícios com a bib Faker e numpy
 
 dados = {
     "ID": np.arange(1, n + 1),
     "Data": pd.to_datetime((np.random.choice(
-        pd.date_range("2023-01-01", "2023-12-31"), n)),
+        pd.date_range("2023-01-01", "2023-12-31"), n)), # Gera as datas aleatoriamente no intervalo requisitado
     ),
     "Produto": [faker.catch_phrase() for _ in range(n)],
     "Categoria": [faker.word() for _ in range(n)],
@@ -32,3 +32,23 @@ dados = {
 df = pd.DataFrame(dados)
 
 print(df.head(10))
+
+# Agora iremos começar o processo de limpeza dos dados
+
+# Verificando se há NAs
+
+df.isna().sum()
+
+# Removendo duplicatas
+
+df = df.drop_duplicates()
+
+# Conversão de tipos de dados, a coluna "Data" deve ser do tipo datetime (mas já está tipada) e as colunas "Produto", "Categoria" e "Cidade" devem ser do tipo categórico
+
+df["Produto"] = df["Produto"].astype("category")
+df["Categoria"] = df["Categoria"].astype("category")
+df["Cidade"] = df["Cidade"].astype("category")
+
+# Salvar o DataFrame limpo em um arquivo CSV
+
+df.to_csv("dados_limpos.csv", index=False)
