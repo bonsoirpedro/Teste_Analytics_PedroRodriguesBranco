@@ -13,7 +13,7 @@ random.seed(seed_valor)
 
 # Número de registros a serem gerados para o df
 
-n = 50
+n = 200
 
 # Agora precisamos gerar os dados fictícios com a bib Faker e numpy
 

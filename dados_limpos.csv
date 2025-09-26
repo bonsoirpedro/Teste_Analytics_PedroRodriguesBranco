@@ -1,51 +1,51 @@
 ID,Data,Produto,Categoria,Quantidade,Preço,Cidade
-1,2023-04-13,A segurança de inovar simplesmente,repudiandae,14,403.08,Cirino Paulista
-2,2023-12-15,O conforto de avançar direto da fonte,est,9,46.53,da Cruz de Barbosa
-3,2023-09-28,A vantagem de atingir seus objetivos de maneira eficaz,ab,90,493.57,Novaes de Brito
-4,2023-04-17,O prazer de mudar simplesmente,aut,53,388.4,Rezende
-5,2023-03-13,A possibilidade de mudar com confiança,voluptatum,2,107.37,Borges
-6,2023-07-08,A simplicidade de concretizar seus projetos com força total,suscipit,84,12.71,Cavalcante
-7,2023-01-21,A segurança de evoluir com confiança,assumenda,92,409.58,Mendonça do Amparo
-8,2023-04-13,A arte de inovar mais facilmente,eum,60,356.36,Guerra
-9,2023-05-02,A arte de avançar mais rapidamente,atque,71,367.21,Cavalcante
-10,2023-08-03,O prazer de ganhar antes de tudo,aliquid,44,387.92,Abreu das Flores
-11,2023-11-27,A segurança de concretizar seus projetos em estado puro,iure,8,46.28,Viana dos Dourados
-12,2023-03-29,O poder de avançar em estado puro,aut,47,185.65,Lima da Prata
-13,2023-04-10,A liberdade de ganhar com força total,quam,35,66.78,Cassiano de Correia
-14,2023-12-26,O prazer de conseguir direto da fonte,ex,78,432.92,Cunha do Norte
-15,2023-06-01,A certeza de avançar simplesmente,hic,81,315.42,Souza
-16,2023-05-11,O poder de inovar sem preocupação,velit,36,172.14,Araújo do Norte
-17,2023-05-30,O conforto de ganhar antes de tudo,placeat,50,41.14,Montenegro de Moura
-18,2023-11-05,A liberdade de inovar com confiança,error,4,162.38,Araújo
-19,2023-09-15,A vantagem de evoluir em estado puro,quis,2,169.34,Cirino
-20,2023-12-10,O conforto de concretizar seus projetos naturalmente,delectus,6,367.51,Peixoto
-21,2023-10-21,A liberdade de realizar seus sonhos simplesmente,rem,54,322.4,Rocha
-22,2023-07-11,A segurança de mudar de maneira eficaz,repellat,4,444.73,Guerra
-23,2023-10-04,O poder de inovar mais rapidamente,pariatur,54,241.39,Nunes
-24,2023-06-10,A vantagem de ganhar simplesmente,exercitationem,93,68.6,Pacheco
-25,2023-11-10,O poder de concretizar seus projetos mais facilmente,pariatur,63,359.49,Pinto
-26,2023-01-22,O conforto de mudar com confiança,nemo,18,382.78,Leão
-27,2023-09-10,A vantagem de atingir seus objetivos com força total,eaque,90,285.03,da Luz do Oeste
-28,2023-08-24,A arte de mudar mais facilmente,consequatur,44,387.77,da Costa Paulista
-29,2023-12-11,O prazer de conseguir mais rapidamente,consequatur,34,251.96,Cardoso da Mata
-30,2023-02-18,A liberdade de evoluir direto da fonte,unde,74,266.14,Dias de Sá
-31,2023-02-28,A vantagem de avançar naturalmente,non,62,219.5,Albuquerque
-32,2023-06-19,A vantagem de concretizar seus projetos em estado puro,libero,14,22.46,Pinto de Nunes
-33,2023-07-07,A possibilidade de conseguir direto da fonte,nisi,95,62.87,Barbosa
-34,2023-09-28,A liberdade de realizar seus sonhos com toda a tranquilidade,neque,48,25.4,Montenegro
-35,2023-07-09,O prazer de inovar naturalmente,omnis,15,321.84,Cardoso da Praia
-36,2023-06-24,O direito de conseguir com confiança,asperiores,72,164.03,da Cruz
-37,2023-02-20,A possibilidade de evoluir em estado puro,veniam,78,259.2,da Paz da Serra
-38,2023-12-30,A liberdade de inovar direto da fonte,ullam,87,454.71,Nogueira de Santos
-39,2023-02-24,O conforto de ganhar mais facilmente,tenetur,62,132.15,Pimenta do Galho
-40,2023-09-01,A vantagem de ganhar sem preocupação,consequuntur,40,211.09,Rios
-41,2023-11-16,O prazer de ganhar com toda a tranquilidade,assumenda,85,380.22,Ribeiro do Campo
-42,2023-05-11,A segurança de mudar com força total,necessitatibus,80,122.11,da Luz
-43,2023-11-03,O prazer de concretizar seus projetos mais rapidamente,labore,82,47.72,Caldeira
-44,2023-05-15,O conforto de concretizar seus projetos em estado puro,corrupti,53,151.98,da Mata
-45,2023-01-21,A certeza de realizar seus sonhos com força total,expedita,24,89.0,Pereira do Oeste
-46,2023-11-25,A simplicidade de realizar seus sonhos com confiança,earum,26,465.55,Costela Paulista
-47,2023-06-16,A certeza de atingir seus objetivos direto da fonte,eaque,89,405.98,da Cunha de Aragão
-48,2023-10-01,O direito de realizar seus sonhos sem preocupação,quidem,60,320.37,Porto
-49,2023-03-30,A simplicidade de mudar mais rapidamente,occaecati,41,437.02,da Mota do Norte
-50,2023-11-12,A segurança de realizar seus sonhos simplesmente,deserunt,29,403.8,Farias
+1,2023-04-13,Sandália,Eletrônicos,62,117.04,Alves
+2,2023-12-15,Smartphone,Papelaria,88,214.09,da Cruz de Goiás
+3,2023-09-28,Smartphone,Eletrônicos,37,442.81,Sousa
+4,2023-04-17,Notebook,Vestuário,99,168.93,Rocha
+5,2023-03-13,Smartphone,Calçados,44,69.82,Pastor
+6,2023-07-08,Tênis,Eletrônicos,86,184.59,Andrade do Sul
+7,2023-01-21,Smartphone,Papelaria,91,454.35,Cunha
+8,2023-04-13,Calça,Vestuário,35,143.34,Montenegro
+9,2023-05-02,Calça,Eletrônicos,65,327.37,Novais
+10,2023-08-03,Livro,Papelaria,99,10.25,Silva
+11,2023-11-27,Calça,Papelaria,47,182.76,Câmara dos Dourados
+12,2023-03-29,Livro,Papelaria,78,159.34,Abreu da Serra
+13,2023-04-10,Calça,Eletrônicos,3,90.68,Fernandes Paulista
+14,2023-12-26,Tênis,Eletrônicos,1,271.7,Cunha
+15,2023-06-01,Caneta,Eletrônicos,5,247.57,Caldeira de Minas
+16,2023-05-11,Livro,Calçados,90,349.29,Brito da Praia
+17,2023-05-30,Camiseta,Eletrônicos,14,142.01,Pereira Paulista
+18,2023-11-05,Sandália,Eletrônicos,27,129.62,Siqueira
+19,2023-09-15,Notebook,Eletrônicos,9,92.46,Nascimento de Campos
+20,2023-12-10,Calça,Calçados,79,117.19,Barros da Prata
+21,2023-10-21,Smartphone,Eletrônicos,15,283.47,Pires da Praia
+22,2023-07-11,Caneta,Papelaria,90,207.88,Santos
+23,2023-10-04,Calça,Eletrônicos,42,41.8,Aparecida
+24,2023-06-10,Smartphone,Papelaria,77,134.42,Vargas
+25,2023-11-10,Sandália,Papelaria,51,130.97,Barros de Goiás
+26,2023-01-22,Sandália,Papelaria,63,351.19,Garcia
+27,2023-09-10,Sandália,Calçados,96,359.01,Marques da Praia
+28,2023-08-24,Smartphone,Calçados,52,82.56,Freitas
+29,2023-12-11,Calça,Calçados,96,498.89,Costela Paulista
+30,2023-02-18,Sandália,Eletrônicos,4,140.72,Pereira
+31,2023-02-28,Tênis,Papelaria,94,488.54,Nascimento
+32,2023-06-19,Livro,Calçados,23,211.41,Castro
+33,2023-07-07,Smartphone,Calçados,15,26.19,Garcia de da Mata
+34,2023-09-28,Smartphone,Eletrônicos,43,179.08,Rodrigues
+35,2023-07-09,Calça,Calçados,29,320.83,Vargas do Norte
+36,2023-06-24,Smartphone,Eletrônicos,36,343.55,Andrade
+37,2023-02-20,Smartphone,Vestuário,13,270.16,Guerra Paulista
+38,2023-12-30,Sandália,Calçados,32,229.41,Cunha
+39,2023-02-24,Calça,Vestuário,71,280.92,Cunha do Amparo
+40,2023-09-01,Sandália,Eletrônicos,59,300.42,Ramos dos Dourados
+41,2023-11-16,Livro,Papelaria,86,49.62,da Luz
+42,2023-05-11,Caneta,Calçados,28,191.13,da Cruz
+43,2023-11-03,Livro,Eletrônicos,66,128.66,Souza Verde
+44,2023-05-15,Caneta,Papelaria,42,403.54,Pacheco das Flores
+45,2023-01-21,Sandália,Papelaria,45,240.45,Câmara Grande
+46,2023-11-25,Livro,Vestuário,62,491.88,Borges de Sá
+47,2023-06-16,Calça,Eletrônicos,57,205.42,Camargo
+48,2023-10-01,Notebook,Papelaria,6,410.05,Pires
+49,2023-03-30,Sandália,Calçados,28,401.19,Vieira
+50,2023-11-12,Caneta,Calçados,28,83.85,Peixoto de Minas
