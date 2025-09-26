@@ -17,13 +17,16 @@ n = 50
 
 # Agora precisamos gerar os dados fictícios com a bib Faker e numpy
 
+produtos = ["Notebook", "Smartphone", "Camiseta", "Calça", "Tênis", "Sandália", "Livro", "Caneta"]
+categorias = ["Eletrônicos", "Vestuário", "Calçados", "Papelaria"]
+
 dados = {
     "ID": np.arange(1, n + 1),
     "Data": pd.to_datetime((np.random.choice(
         pd.date_range("2023-01-01", "2023-12-31"), n)), # Gera as datas aleatoriamente no intervalo requisitado
     ),
-    "Produto": [faker.catch_phrase() for _ in range(n)],
-    "Categoria": [faker.word() for _ in range(n)],
+    "Produto": np.random.choice(produtos, n),
+    "Categoria": np.random.choice(categorias, n),
     "Quantidade": np.random.randint(1, 100, n),
     "Preço": np.round(np.random.uniform(10.0, 500.0, n), 2),
     "Cidade": [faker.city() for _ in range(n)]
