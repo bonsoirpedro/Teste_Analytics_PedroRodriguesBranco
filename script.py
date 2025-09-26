@@ -54,4 +54,13 @@ df["Cidade"] = df["Cidade"].astype("category")
 
 # Salvar o DataFrame limpo em um arquivo CSV
 
-df.to_csv("dados_limpos.csv", index=False)
+df.to_csv("dados_clean.csv", index=False)
+
+# Calculando valor total da venda
+
+df["Valor_Total"] = df["Quantidade"] * df["Preço"]
+
+# Print do produto com maior número de vendas totais
+
+produto_mais_vendido = df.groupby("Produto")["Valor_Total"].sum().idxmax()
+print(f"Produto com maior número de vendas totais: {produto_mais_vendido}")
