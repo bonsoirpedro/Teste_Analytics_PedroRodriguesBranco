@@ -63,3 +63,8 @@ df["Valor_Total"] = df["Quantidade"] * df["Preco"]
 # Print do produto com maior número de vendas totais
 produto_mais_vendido = df.groupby("Produto")["Valor_Total"].sum().idxmax()
 print(f"Produto com maior número de vendas totais: {produto_mais_vendido}")
+
+# Print das porcentagens das vendas por categoria
+categorias_vendas = df.groupby("Categoria")["Valor_Total"].sum()
+porcentagens = (categorias_vendas / categorias_vendas.sum()) * 100
+print("\nPorcentagens das vendas por categoria:\n", porcentagens)

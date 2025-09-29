@@ -12,8 +12,7 @@ O objetivo é identificar tendências, produtos mais vendidos e padrões de comp
 - **Produto**: Nome do produto vendido  
 - **Categoria**: Categoria do produto  
 - **Quantidade**: Número de unidades vendidas  
-- **Preco**: Valor unitário do produto  
-- **Cidade**: Localidade da venda  
+- **Preco**: Valor unitário do produto
 
 ---
 
@@ -35,7 +34,13 @@ O objetivo é identificar tendências, produtos mais vendidos e padrões de comp
 ---
 
 ## 4. Conclusões
-- **Produtos eletrônicos** concentraram a maior parte das vendas.  
-- Houve **aumento de vendas no final do ano**, provavelmente relacionado a datas sazonais (Black Friday e Natal).   
+
+- A categoria **Papelaria** lidera o faturamento total do ano, seguida por Eletrônicos e Vestuário.   
+- **Calçados** apresentou o menor total, representando cerca de 20.39% das vendas totais.
+- Maio e Junho foram os meses de maiores vendas, meses que apresentam muitas queimas de estoque normalmente, pois são meses pós festividades e também mês de preparação para o próximo semestre eletivo.
+- **Vestuário** não apresentou vendas no mês de Março.
+- Há clara **sazonalidade nas vendas**, especialmente para Papelaria e Eletrônicos.  
+- Estratégias de marketing e estoque devem considerar os meses de maior venda para maximizar o faturamento.  
+- Calçados apresenta maior volatilidade, sugerindo necessidade de análise mais detalhada para planejamento de estoque.
 
 ---  
