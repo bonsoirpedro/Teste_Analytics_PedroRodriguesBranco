@@ -9,7 +9,7 @@ df = pd.read_csv("dados_clean.csv")
 df['Data'] = pd.to_datetime(df['Data'])
 
 # Calculando valor total da venda
-df["Valor_Total"] = df["Quantidade"] * df["Preço"]
+df["Valor_Total"] = df["Quantidade"] * df["Preco"]
 
 # Analise Exploratória de Dados de Venda (EDA)
 import matplotlib.pyplot as plt
@@ -62,6 +62,7 @@ vendas_categoria_mensal = df.pivot_table(index=df['Data'].dt.to_period('M'),
                                          aggfunc='sum').fillna(0)
 print("\nVendas Mensais por Categoria:\n", vendas_categoria_mensal)
 
-# Percebe-se que as categorias Vestuário e Eletrônicos são as que mais vendem e também nos meses mais festivos as vendas ficam acima da média anual.
-# Agosto é um mês que marca o início das vendas de volta às aulas, o que pode explicar o aumento nas vendas de Papelaria.
-# Março é um mês que marca o início das aulas e começo de novos trabalhos, o que pode explicar o aumento de vendas em Calçados.
+# Percebe-se que as categorias Papelaria e Eletrônicos são as que mais vendem.
+# Em Abril, há um pico em Eletrônicos, possivelmente por conta da Páscoa e promoções relacionadas, mas o destaque mesmo é da Papelaria.
+# Papelaria tem seu pico em Junho, o que pode estar relacionado com preparativos para o segundo semestre letivo.
+# Em Agosto, há um aumento em Calçados e Vestuários, possivelmente devido ao início do outono e promoções de volta às aulas.

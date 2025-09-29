@@ -1,201 +1,201 @@
-ID,Data,Produto,Categoria,Quantidade,Preço,Cidade
-1,2023-04-13,Smartphone,Eletrônicos,33,268.57,Alves
-2,2023-12-15,Camiseta,Vestuário,94,496.55,da Cruz de Goiás
-3,2023-09-28,Notebook,Calçados,23,46.16,Sousa
-4,2023-04-17,Tênis,Papelaria,10,281.39,Rocha
-5,2023-03-13,Notebook,Eletrônicos,69,484.96,Pastor
-6,2023-07-08,Caneta,Eletrônicos,34,266.32,Andrade do Sul
-7,2023-01-21,Notebook,Papelaria,52,318.41,Cunha
-8,2023-04-13,Camiseta,Eletrônicos,95,350.92,Montenegro
-9,2023-05-02,Notebook,Eletrônicos,10,232.73,Novais
-10,2023-08-03,Smartphone,Vestuário,19,317.5,Silva
-11,2023-11-27,Smartphone,Eletrônicos,58,296.31,Câmara dos Dourados
-12,2023-03-29,Calça,Calçados,96,451.57,Abreu da Serra
-13,2023-04-10,Sandália,Calçados,1,32.27,Fernandes Paulista
-14,2023-12-26,Livro,Papelaria,69,147.67,Cunha
-15,2023-06-01,Tênis,Eletrônicos,4,475.7,Caldeira de Minas
-16,2023-05-11,Caneta,Papelaria,16,446.23,Brito da Praia
-17,2023-05-30,Notebook,Calçados,24,233.27,Pereira Paulista
-18,2023-11-05,Notebook,Eletrônicos,80,313.86,Siqueira
-19,2023-09-15,Camiseta,Eletrônicos,2,145.92,Nascimento de Campos
-20,2023-12-10,Sandália,Papelaria,92,102.18,Barros da Prata
-21,2023-10-21,Smartphone,Calçados,32,237.21,Pires da Praia
-22,2023-07-11,Tênis,Eletrônicos,91,183.14,Santos
-23,2023-10-04,Calça,Papelaria,84,295.99,Aparecida
-24,2023-06-10,Smartphone,Calçados,24,48.09,Vargas
-25,2023-11-10,Caneta,Papelaria,12,487.45,Barros de Goiás
-26,2023-01-22,Sandália,Vestuário,50,493.24,Garcia
-27,2023-09-10,Caneta,Eletrônicos,35,352.1,Marques da Praia
-28,2023-08-24,Livro,Vestuário,33,272.69,Freitas
-29,2023-12-11,Calça,Calçados,33,161.67,Costela Paulista
-30,2023-02-18,Livro,Vestuário,61,408.76,Pereira
-31,2023-02-28,Camiseta,Vestuário,51,345.52,Nascimento
-32,2023-06-19,Caneta,Calçados,43,89.68,Castro
-33,2023-07-07,Camiseta,Papelaria,12,456.35,Garcia de da Mata
-34,2023-09-28,Notebook,Vestuário,67,413.04,Rodrigues
-35,2023-07-09,Livro,Papelaria,65,475.4,Vargas do Norte
-36,2023-06-24,Sandália,Vestuário,33,365.6,Andrade
-37,2023-02-20,Caneta,Papelaria,40,310.57,Guerra Paulista
-38,2023-12-30,Tênis,Calçados,74,214.94,Cunha
-39,2023-02-24,Calça,Vestuário,43,467.04,Cunha do Amparo
-40,2023-09-01,Smartphone,Calçados,44,434.37,Ramos dos Dourados
-41,2023-11-16,Sandália,Vestuário,29,32.16,da Luz
-42,2023-05-11,Sandália,Calçados,13,22.92,da Cruz
-43,2023-11-03,Camiseta,Calçados,12,194.47,Souza Verde
-44,2023-05-15,Livro,Vestuário,95,407.17,Pacheco das Flores
-45,2023-01-21,Caneta,Vestuário,46,493.77,Câmara Grande
-46,2023-11-25,Caneta,Vestuário,2,83.7,Borges de Sá
-47,2023-06-16,Notebook,Eletrônicos,35,301.12,Camargo
-48,2023-10-01,Notebook,Papelaria,87,196.64,Pires
-49,2023-03-30,Calça,Eletrônicos,81,485.26,Vieira
-50,2023-11-12,Camiseta,Eletrônicos,90,422.64,Peixoto de Minas
-51,2023-01-14,Sandália,Calçados,8,420.78,Garcia dos Dourados
-52,2023-08-30,Caneta,Vestuário,93,239.66,Novaes do Sul
-53,2023-09-22,Tênis,Papelaria,26,213.26,Rodrigues
-54,2023-12-12,Camiseta,Calçados,74,143.97,Vargas Alegre
-55,2023-02-22,Calça,Eletrônicos,90,37.62,da Rocha
-56,2023-12-06,Calça,Vestuário,34,433.71,Castro dos Dourados
-57,2023-04-02,Camiseta,Calçados,7,408.32,Silveira
-58,2023-09-21,Calça,Vestuário,68,499.86,Montenegro da Serra
-59,2023-02-04,Camiseta,Calçados,58,498.35,Pires
-60,2023-07-25,Smartphone,Vestuário,75,282.16,Porto do Galho
-61,2023-03-22,Camiseta,Eletrônicos,29,386.8,Cassiano
-62,2023-02-19,Livro,Papelaria,36,472.94,Teixeira da Serra
-63,2023-12-26,Camiseta,Eletrônicos,89,426.33,Peixoto
-64,2023-01-02,Calça,Papelaria,21,131.2,Mendonça do Sul
-65,2023-02-23,Caneta,Vestuário,36,230.77,Fonseca
-66,2023-04-16,Livro,Calçados,10,73.29,da Costa do Norte
-67,2023-09-17,Calça,Eletrônicos,73,477.49,Nunes
-68,2023-11-06,Notebook,Papelaria,24,307.03,Barros
-69,2023-07-10,Notebook,Eletrônicos,64,122.03,Azevedo de Teixeira
-70,2023-08-06,Caneta,Papelaria,99,339.13,Cardoso
-71,2023-02-13,Caneta,Eletrônicos,49,312.88,Novaes de Cavalcante
-72,2023-06-11,Livro,Papelaria,99,185.5,Moura das Pedras
-73,2023-07-21,Smartphone,Papelaria,36,65.64,Nogueira
-74,2023-09-27,Caneta,Vestuário,82,339.07,Silva
-75,2023-12-17,Notebook,Papelaria,96,264.95,Guerra da Praia
-76,2023-10-31,Camiseta,Vestuário,24,388.44,Moreira de Machado
-77,2023-09-28,Calça,Papelaria,23,264.88,da Cruz
-78,2023-08-03,Notebook,Calçados,62,427.57,Azevedo
-79,2023-09-09,Notebook,Calçados,96,280.43,Almeida Verde
-80,2023-07-09,Smartphone,Calçados,37,284.86,Pastor
-81,2023-10-23,Livro,Papelaria,12,439.56,Abreu
-82,2023-08-01,Livro,Vestuário,55,207.71,Santos
-83,2023-07-27,Sandália,Vestuário,13,75.67,da Conceição
-84,2023-08-25,Smartphone,Papelaria,23,24.1,Andrade
-85,2023-12-04,Camiseta,Calçados,89,380.02,Barbosa do Galho
-86,2023-02-22,Livro,Calçados,99,313.95,da Mota
-87,2023-10-07,Calça,Vestuário,30,355.0,Cunha de Nogueira
-88,2023-08-05,Caneta,Calçados,17,114.35,Silveira
-89,2023-09-09,Smartphone,Eletrônicos,62,76.82,da Cruz de Viana
-90,2023-07-07,Caneta,Vestuário,84,17.13,Jesus de Correia
-91,2023-02-10,Notebook,Calçados,89,181.79,Brito
-92,2023-06-06,Calça,Vestuário,86,299.06,Fogaça das Pedras
-93,2023-01-15,Calça,Eletrônicos,13,202.2,Martins do Norte
-94,2023-10-28,Notebook,Vestuário,59,224.36,Araújo
-95,2023-03-06,Smartphone,Vestuário,19,453.04,Siqueira Alegre
-96,2023-12-11,Notebook,Vestuário,49,180.65,da Cruz
-97,2023-11-23,Caneta,Vestuário,12,261.85,Correia
-98,2023-01-09,Sandália,Eletrônicos,61,393.99,Carvalho de Lima
-99,2023-12-10,Calça,Papelaria,19,204.31,da Mota
-100,2023-05-09,Tênis,Vestuário,76,314.82,da Cruz de Barbosa
-101,2023-05-16,Tênis,Vestuário,9,432.56,Novaes de Brito
-102,2023-03-04,Caneta,Calçados,71,475.27,Rezende
-103,2023-05-19,Camiseta,Vestuário,28,82.07,Borges
-104,2023-03-22,Livro,Calçados,78,464.03,Cavalcante
-105,2023-06-12,Notebook,Papelaria,95,251.14,Mendonça do Amparo
-106,2023-10-16,Notebook,Eletrônicos,52,136.54,Guerra
-107,2023-09-18,Camiseta,Eletrônicos,83,234.98,Cavalcante
-108,2023-08-19,Camiseta,Papelaria,16,490.22,Abreu das Flores
-109,2023-02-10,Caneta,Eletrônicos,69,251.38,Viana dos Dourados
-110,2023-01-28,Caneta,Papelaria,99,171.09,Lima da Prata
-111,2023-05-15,Camiseta,Papelaria,12,320.37,Cassiano de Correia
-112,2023-07-20,Calça,Papelaria,25,127.67,Cunha do Norte
-113,2023-11-24,Caneta,Eletrônicos,52,47.17,Souza
-114,2023-09-25,Sandália,Calçados,85,73.15,Araújo do Norte
-115,2023-02-02,Caneta,Papelaria,53,72.74,Montenegro de Moura
-116,2023-02-17,Notebook,Vestuário,23,84.43,Araújo
-117,2023-03-03,Caneta,Eletrônicos,16,78.03,Cirino
-118,2023-08-04,Calça,Papelaria,57,324.03,Peixoto
-119,2023-10-20,Camiseta,Papelaria,39,99.12,Rocha
-120,2023-04-09,Notebook,Vestuário,53,179.38,Guerra
-121,2023-06-21,Caneta,Calçados,42,449.43,Nunes
-122,2023-12-26,Calça,Calçados,58,242.24,Pacheco
-123,2023-08-02,Sandália,Calçados,39,337.1,Pinto
-124,2023-02-04,Caneta,Papelaria,14,94.44,Leão
-125,2023-08-15,Calça,Papelaria,95,104.22,da Luz do Oeste
-126,2023-04-11,Sandália,Papelaria,5,30.03,da Costa Paulista
-127,2023-05-11,Camiseta,Eletrônicos,35,92.78,Cardoso da Mata
-128,2023-09-14,Caneta,Vestuário,87,146.51,Dias de Sá
-129,2023-01-05,Sandália,Papelaria,93,96.74,Albuquerque
-130,2023-08-06,Notebook,Vestuário,75,53.46,Pinto de Nunes
-131,2023-09-12,Camiseta,Vestuário,18,69.11,Barbosa
-132,2023-12-25,Notebook,Calçados,76,235.78,Montenegro
-133,2023-10-10,Tênis,Eletrônicos,9,111.1,Cardoso da Praia
-134,2023-07-26,Smartphone,Papelaria,74,188.49,da Cruz
-135,2023-01-15,Caneta,Calçados,58,256.67,da Paz da Serra
-136,2023-12-12,Sandália,Calçados,17,348.29,Nogueira de Santos
-137,2023-02-11,Smartphone,Papelaria,7,29.26,Pimenta do Galho
-138,2023-06-28,Smartphone,Vestuário,46,401.71,Rios
-139,2023-03-04,Sandália,Calçados,13,317.67,Ribeiro do Campo
-140,2023-12-18,Camiseta,Vestuário,40,50.06,da Luz
-141,2023-08-19,Caneta,Eletrônicos,42,438.05,Caldeira
-142,2023-08-29,Tênis,Vestuário,9,461.23,da Mata
-143,2023-02-21,Notebook,Eletrônicos,50,39.93,Pereira do Oeste
-144,2023-04-06,Calça,Vestuário,27,145.67,Costela Paulista
-145,2023-08-10,Notebook,Calçados,66,405.04,da Cunha de Aragão
-146,2023-08-19,Calça,Calçados,5,376.65,Porto
-147,2023-08-25,Notebook,Eletrônicos,29,100.42,da Mota do Norte
-148,2023-05-23,Sandália,Papelaria,37,112.58,Farias
-149,2023-06-20,Tênis,Eletrônicos,38,191.53,Porto
-150,2023-01-29,Caneta,Eletrônicos,83,247.42,Castro dos Dourados
-151,2023-02-05,Calça,Vestuário,8,312.94,Novais do Sul
-152,2023-01-13,Caneta,Vestuário,65,190.77,Barbosa
-153,2023-06-09,Caneta,Eletrônicos,86,236.64,Nogueira
-154,2023-11-23,Caneta,Calçados,17,376.26,Freitas
-155,2023-07-06,Livro,Vestuário,71,27.97,Lopes
-156,2023-08-31,Camiseta,Papelaria,89,133.69,Aparecida
-157,2023-03-27,Notebook,Vestuário,45,359.54,Fonseca do Norte
-158,2023-10-11,Caneta,Vestuário,4,448.65,Costela de Goiás
-159,2023-03-07,Notebook,Papelaria,36,260.72,Fogaça
-160,2023-06-19,Caneta,Eletrônicos,70,270.74,Pinto Grande
-161,2023-02-14,Calça,Papelaria,31,62.51,Castro
-162,2023-03-03,Camiseta,Eletrônicos,19,229.23,Jesus
-163,2023-05-14,Camiseta,Eletrônicos,61,270.98,Cavalcanti
-164,2023-10-11,Sandália,Eletrônicos,54,128.81,Viana das Pedras
-165,2023-01-28,Livro,Papelaria,39,141.93,da Mata
-166,2023-04-18,Sandália,Eletrônicos,91,194.87,Viana
-167,2023-02-13,Sandália,Calçados,74,19.83,Garcia
-168,2023-12-06,Sandália,Papelaria,90,167.82,Melo
-169,2023-10-13,Sandália,Calçados,19,113.61,Costa
-170,2023-11-27,Sandália,Eletrônicos,39,170.47,Ferreira de das Neves
-171,2023-05-08,Tênis,Vestuário,67,68.68,Câmara
-172,2023-12-14,Camiseta,Eletrônicos,45,446.36,Ribeiro
-173,2023-08-19,Sandália,Calçados,13,300.86,Guerra
-174,2023-07-09,Caneta,Calçados,92,342.76,da Mota de Minas
-175,2023-08-13,Camiseta,Papelaria,58,396.69,Ferreira do Galho
-176,2023-10-10,Camiseta,Vestuário,20,254.24,Rocha da Prata
-177,2023-05-01,Smartphone,Papelaria,92,52.59,Alves do Campo
-178,2023-04-26,Tênis,Calçados,72,273.18,Cavalcanti Verde
-179,2023-08-21,Sandália,Eletrônicos,61,297.55,Andrade do Campo
-180,2023-09-16,Notebook,Vestuário,39,375.27,Ferreira Alegre
-181,2023-12-25,Calça,Eletrônicos,1,221.51,Pereira do Galho
-182,2023-07-17,Livro,Eletrônicos,3,72.51,Gomes
-183,2023-05-17,Caneta,Vestuário,77,149.05,da Cunha
-184,2023-11-14,Notebook,Papelaria,92,187.91,Santos
-185,2023-06-14,Tênis,Eletrônicos,62,326.5,Abreu do Galho
-186,2023-08-13,Calça,Calçados,63,289.68,Fonseca
-187,2023-11-03,Tênis,Eletrônicos,25,184.49,Azevedo Alegre
-188,2023-08-22,Caneta,Vestuário,56,493.39,Ribeiro do Campo
-189,2023-06-21,Camiseta,Vestuário,33,306.83,Montenegro da Mata
-190,2023-06-01,Calça,Vestuário,38,126.24,Duarte das Flores
-191,2023-11-11,Camiseta,Papelaria,6,59.87,Novaes Grande
-192,2023-06-09,Caneta,Eletrônicos,58,84.9,Leão
-193,2023-04-06,Notebook,Papelaria,44,130.52,Rocha da Serra
-194,2023-08-21,Caneta,Papelaria,45,88.73,Guerra da Prata
-195,2023-06-29,Notebook,Vestuário,32,101.42,da Rosa
-196,2023-04-23,Calça,Vestuário,45,149.7,Costela das Pedras
-197,2023-11-14,Calça,Papelaria,61,94.95,Martins dos Dourados
-198,2023-02-21,Sandália,Eletrônicos,47,449.42,Rocha de Cunha
-199,2023-09-25,Tênis,Calçados,21,49.31,Vieira de Vieira
-200,2023-10-22,Sandália,Papelaria,80,267.01,Ribeiro
+ID,Data,Produto,Categoria,Quantidade,Preco,Cidade
+1,2023-03-04,Livro,Papelaria,24,343.99,Alves
+2,2023-12-18,Calça,Vestuário,93,176.91,da Cruz de Goiás
+3,2023-08-19,Tênis,Calçados,46,137.74,Sousa
+4,2023-08-29,Livro,Papelaria,53,253.06,Rocha
+5,2023-02-21,Camiseta,Vestuário,95,349.52,Pastor
+6,2023-04-06,Caneta,Papelaria,99,180.68,Andrade do Sul
+7,2023-08-10,Tênis,Calçados,60,468.96,Cunha
+8,2023-08-19,Tênis,Calçados,97,29.2,Montenegro
+9,2023-08-25,Livro,Papelaria,63,214.79,Novais
+10,2023-05-23,Smartphone,Eletrônicos,85,484.11,Silva
+11,2023-06-20,Camiseta,Vestuário,32,278.51,Câmara dos Dourados
+12,2023-01-29,Livro,Papelaria,87,217.5,Abreu da Serra
+13,2023-02-05,Camiseta,Vestuário,33,288.57,Fernandes Paulista
+14,2023-01-13,Camiseta,Vestuário,67,292.2,Cunha
+15,2023-06-09,Caneta,Papelaria,18,368.51,Caldeira de Minas
+16,2023-11-23,Tênis,Calçados,25,72.57,Brito da Praia
+17,2023-07-06,Calça,Vestuário,95,132.51,Pereira Paulista
+18,2023-08-31,Caneta,Papelaria,54,294.47,Siqueira
+19,2023-03-27,Caneta,Papelaria,58,434.89,Nascimento de Campos
+20,2023-10-11,Camiseta,Vestuário,67,285.31,Barros da Prata
+21,2023-03-07,Sandália,Calçados,46,126.91,Pires da Praia
+22,2023-06-19,Tênis,Calçados,24,343.12,Santos
+23,2023-02-14,Smartphone,Eletrônicos,32,372.56,Aparecida
+24,2023-03-03,Caneta,Papelaria,47,126.74,Vargas
+25,2023-05-14,Calça,Vestuário,86,195.09,Barros de Goiás
+26,2023-10-11,Sandália,Calçados,23,271.82,Garcia
+27,2023-01-28,Sandália,Calçados,66,253.31,Marques da Praia
+28,2023-04-18,Smartphone,Eletrônicos,27,200.91,Freitas
+29,2023-02-13,Caneta,Papelaria,2,155.84,Costela Paulista
+30,2023-12-06,Calça,Vestuário,90,58.99,Pereira
+31,2023-10-13,Tênis,Calçados,17,36.21,Nascimento
+32,2023-11-27,Notebook,Eletrônicos,33,479.69,Castro
+33,2023-05-08,Calça,Vestuário,9,425.1,Garcia de da Mata
+34,2023-12-14,Smartphone,Eletrônicos,43,183.9,Rodrigues
+35,2023-08-19,Sandália,Calçados,48,478.83,Vargas do Norte
+36,2023-07-09,Tênis,Calçados,39,341.62,Andrade
+37,2023-08-13,Calça,Vestuário,93,246.44,Guerra Paulista
+38,2023-10-10,Notebook,Eletrônicos,42,251.58,Cunha
+39,2023-05-01,Notebook,Eletrônicos,26,50.81,Cunha do Amparo
+40,2023-04-26,Camiseta,Vestuário,99,54.94,Ramos dos Dourados
+41,2023-08-21,Camiseta,Vestuário,50,305.2,da Luz
+42,2023-09-16,Livro,Papelaria,25,281.31,da Cruz
+43,2023-12-25,Smartphone,Eletrônicos,24,114.24,Souza Verde
+44,2023-07-17,Caneta,Papelaria,13,473.64,Pacheco das Flores
+45,2023-05-17,Calça,Vestuário,60,392.84,Câmara Grande
+46,2023-11-14,Calça,Vestuário,7,65.6,Borges de Sá
+47,2023-06-14,Caneta,Papelaria,57,466.16,Camargo
+48,2023-08-13,Livro,Papelaria,36,487.38,Pires
+49,2023-11-03,Sandália,Calçados,45,498.01,Vieira
+50,2023-08-22,Sandália,Calçados,20,37.38,Peixoto de Minas
+51,2023-06-21,Livro,Papelaria,65,371.15,Garcia dos Dourados
+52,2023-06-01,Sandália,Calçados,8,277.5,Novaes do Sul
+53,2023-11-11,Camiseta,Vestuário,16,355.86,Rodrigues
+54,2023-06-09,Calça,Vestuário,14,484.64,Vargas Alegre
+55,2023-04-06,Livro,Papelaria,76,347.13,da Rocha
+56,2023-08-21,Calça,Vestuário,87,420.11,Castro dos Dourados
+57,2023-06-29,Caneta,Papelaria,15,434.77,Silveira
+58,2023-04-23,Notebook,Eletrônicos,92,420.86,Montenegro da Serra
+59,2023-11-14,Camiseta,Vestuário,98,218.78,Pires
+60,2023-02-21,Tênis,Calçados,66,119.06,Porto do Galho
+61,2023-09-25,Camiseta,Vestuário,32,204.36,Cassiano
+62,2023-10-22,Livro,Papelaria,87,447.03,Teixeira da Serra
+63,2023-04-23,Tênis,Calçados,63,81.84,Peixoto
+64,2023-04-11,Notebook,Eletrônicos,86,261.53,Mendonça do Sul
+65,2023-04-23,Livro,Papelaria,51,124.28,Fonseca
+66,2023-03-22,Smartphone,Eletrônicos,25,294.84,da Costa do Norte
+67,2023-07-06,Calça,Vestuário,58,432.94,Nunes
+68,2023-04-23,Notebook,Eletrônicos,63,441.38,Barros
+69,2023-01-02,Calça,Vestuário,62,125.98,Azevedo de Teixeira
+70,2023-05-10,Sandália,Calçados,22,454.77,Cardoso
+71,2023-08-08,Smartphone,Eletrônicos,58,300.03,Novaes de Cavalcante
+72,2023-02-23,Smartphone,Eletrônicos,58,181.61,Moura das Pedras
+73,2023-12-09,Notebook,Eletrônicos,86,357.01,Nogueira
+74,2023-08-12,Smartphone,Eletrônicos,49,246.02,Silva
+75,2023-08-13,Tênis,Calçados,52,195.21,Guerra da Praia
+76,2023-05-06,Smartphone,Eletrônicos,42,355.49,Moreira de Machado
+77,2023-05-10,Calça,Vestuário,70,131.87,da Cruz
+78,2023-02-22,Calça,Vestuário,15,171.82,Azevedo
+79,2023-06-21,Livro,Papelaria,54,222.88,Almeida Verde
+80,2023-08-06,Calça,Vestuário,60,134.3,Pastor
+81,2023-06-09,Livro,Papelaria,97,208.55,Abreu
+82,2023-07-17,Calça,Vestuário,8,290.02,Santos
+83,2023-09-04,Tênis,Calçados,53,373.08,da Conceição
+84,2023-11-20,Caneta,Papelaria,60,385.93,Andrade
+85,2023-07-22,Livro,Papelaria,5,413.17,Barbosa do Galho
+86,2023-07-03,Camiseta,Vestuário,68,374.66,da Mota
+87,2023-05-03,Sandália,Calçados,6,343.71,Cunha de Nogueira
+88,2023-09-12,Notebook,Eletrônicos,96,126.38,Silveira
+89,2023-10-21,Calça,Vestuário,94,206.11,da Cruz de Viana
+90,2023-10-07,Smartphone,Eletrônicos,47,244.08,Jesus de Correia
+91,2023-11-21,Caneta,Papelaria,99,50.62,Brito
+92,2023-04-08,Calça,Vestuário,55,268.9,Fogaça das Pedras
+93,2023-07-17,Smartphone,Eletrônicos,40,223.8,Martins do Norte
+94,2023-08-28,Sandália,Calçados,52,403.03,Araújo
+95,2023-05-24,Sandália,Calçados,16,489.17,Siqueira Alegre
+96,2023-04-07,Sandália,Calçados,13,282.44,da Cruz
+97,2023-07-20,Smartphone,Eletrônicos,30,168.12,Correia
+98,2023-05-04,Calça,Vestuário,19,31.27,Carvalho de Lima
+99,2023-07-06,Sandália,Calçados,17,463.08,da Mota
+100,2023-11-22,Tênis,Calçados,63,460.37,da Cruz de Barbosa
+101,2023-12-15,Livro,Papelaria,19,133.97,Novaes de Brito
+102,2023-09-16,Smartphone,Eletrônicos,92,350.75,Rezende
+103,2023-05-28,Smartphone,Eletrônicos,58,46.96,Borges
+104,2023-09-09,Calça,Vestuário,55,91.45,Cavalcante
+105,2023-12-12,Smartphone,Eletrônicos,90,116.24,Mendonça do Amparo
+106,2023-05-27,Smartphone,Eletrônicos,90,154.3,Guerra
+107,2023-05-28,Sandália,Calçados,62,497.96,Cavalcante
+108,2023-12-18,Calça,Vestuário,23,351.49,Abreu das Flores
+109,2023-07-18,Sandália,Calçados,9,198.26,Viana dos Dourados
+110,2023-11-04,Livro,Papelaria,12,371.18,Lima da Prata
+111,2023-05-08,Caneta,Papelaria,1,458.47,Cassiano de Correia
+112,2023-02-08,Livro,Papelaria,58,479.76,Cunha do Norte
+113,2023-12-04,Caneta,Papelaria,1,38.35,Souza
+114,2023-12-26,Sandália,Calçados,34,203.32,Araújo do Norte
+115,2023-05-09,Livro,Papelaria,96,62.31,Montenegro de Moura
+116,2023-09-24,Calça,Vestuário,48,174.47,Araújo
+117,2023-05-31,Notebook,Eletrônicos,89,93.14,Cirino
+118,2023-10-25,Sandália,Calçados,1,326.96,Peixoto
+119,2023-04-09,Caneta,Papelaria,16,200.25,Rocha
+120,2023-09-20,Tênis,Calçados,61,122.4,Guerra
+121,2023-09-09,Caneta,Papelaria,64,140.31,Nunes
+122,2023-05-24,Tênis,Calçados,63,186.57,Pacheco
+123,2023-12-12,Smartphone,Eletrônicos,69,137.38,Pinto
+124,2023-04-22,Livro,Papelaria,22,232.09,Leão
+125,2023-03-01,Tênis,Calçados,93,25.83,da Luz do Oeste
+126,2023-01-02,Caneta,Papelaria,67,147.08,da Costa Paulista
+127,2023-10-31,Smartphone,Eletrônicos,76,211.49,Cardoso da Mata
+128,2023-09-11,Notebook,Eletrônicos,26,305.36,Dias de Sá
+129,2023-05-20,Calça,Vestuário,16,142.77,Albuquerque
+130,2023-02-06,Calça,Vestuário,51,75.26,Pinto de Nunes
+131,2023-06-09,Calça,Vestuário,86,47.34,Barbosa
+132,2023-01-09,Tênis,Calçados,57,470.86,Montenegro
+133,2023-08-21,Notebook,Eletrônicos,29,214.15,Cardoso da Praia
+134,2023-04-09,Tênis,Calçados,78,294.77,da Cruz
+135,2023-05-27,Livro,Papelaria,92,460.4,da Paz da Serra
+136,2023-10-31,Tênis,Calçados,69,50.55,Nogueira de Santos
+137,2023-07-27,Notebook,Eletrônicos,47,439.56,Pimenta do Galho
+138,2023-05-11,Notebook,Eletrônicos,94,280.28,Rios
+139,2023-06-01,Livro,Papelaria,62,90.77,Ribeiro do Campo
+140,2023-02-23,Notebook,Eletrônicos,69,211.52,da Luz
+141,2023-04-30,Caneta,Papelaria,76,391.03,Caldeira
+142,2023-06-10,Notebook,Eletrônicos,16,245.38,da Mata
+143,2023-04-26,Calça,Vestuário,90,492.79,Pereira do Oeste
+144,2023-03-16,Caneta,Papelaria,90,194.6,Costela Paulista
+145,2023-04-23,Caneta,Papelaria,48,377.29,da Cunha de Aragão
+146,2023-04-14,Livro,Papelaria,85,202.56,Porto
+147,2023-12-06,Camiseta,Vestuário,39,416.29,da Mota do Norte
+148,2023-09-11,Camiseta,Vestuário,33,288.85,Farias
+149,2023-08-15,Notebook,Eletrônicos,94,41.12,Porto
+150,2023-04-22,Caneta,Papelaria,23,28.04,Castro dos Dourados
+151,2023-04-09,Camiseta,Vestuário,10,75.59,Novais do Sul
+152,2023-06-02,Camiseta,Vestuário,69,16.7,Barbosa
+153,2023-12-15,Notebook,Eletrônicos,34,46.93,Nogueira
+154,2023-12-04,Camiseta,Vestuário,52,348.94,Freitas
+155,2023-07-13,Tênis,Calçados,95,271.83,Lopes
+156,2023-11-06,Smartphone,Eletrônicos,10,377.46,Aparecida
+157,2023-06-12,Livro,Papelaria,19,457.45,Fonseca do Norte
+158,2023-07-27,Smartphone,Eletrônicos,58,296.72,Costela de Goiás
+159,2023-06-18,Notebook,Eletrônicos,96,365.8,Fogaça
+160,2023-06-10,Calça,Vestuário,1,380.97,Pinto Grande
+161,2023-03-09,Livro,Papelaria,69,195.15,Castro
+162,2023-10-16,Notebook,Eletrônicos,4,128.13,Jesus
+163,2023-10-04,Caneta,Papelaria,16,110.47,Cavalcanti
+164,2023-10-31,Calça,Vestuário,24,133.21,Viana das Pedras
+165,2023-05-15,Smartphone,Eletrônicos,80,144.62,da Mata
+166,2023-07-14,Notebook,Eletrônicos,2,111.54,Viana
+167,2023-05-08,Caneta,Papelaria,92,440.33,Garcia
+168,2023-02-02,Livro,Papelaria,32,380.93,Melo
+169,2023-06-25,Livro,Papelaria,91,32.98,Costa
+170,2023-01-22,Sandália,Calçados,84,141.65,Ferreira de das Neves
+171,2023-08-26,Caneta,Papelaria,24,20.87,Câmara
+172,2023-06-07,Tênis,Calçados,12,254.1,Ribeiro
+173,2023-02-07,Camiseta,Vestuário,50,243.34,Guerra
+174,2023-08-18,Calça,Vestuário,35,417.37,da Mota de Minas
+175,2023-12-31,Caneta,Papelaria,33,160.81,Ferreira do Galho
+176,2023-02-20,Sandália,Calçados,33,410.03,Rocha da Prata
+177,2023-09-21,Camiseta,Vestuário,61,484.31,Alves do Campo
+178,2023-10-10,Camiseta,Vestuário,51,53.32,Cavalcanti Verde
+179,2023-01-27,Notebook,Eletrônicos,43,397.99,Andrade do Campo
+180,2023-08-14,Camiseta,Vestuário,12,299.08,Ferreira Alegre
+181,2023-10-04,Tênis,Calçados,67,245.22,Pereira do Galho
+182,2023-10-13,Livro,Papelaria,65,216.06,Gomes
+183,2023-04-07,Sandália,Calçados,33,394.49,da Cunha
+184,2023-10-11,Camiseta,Vestuário,40,323.29,Santos
+185,2023-11-13,Notebook,Eletrônicos,74,404.47,Abreu do Galho
+186,2023-10-31,Tênis,Calçados,43,452.54,Fonseca
+187,2023-05-27,Smartphone,Eletrônicos,44,312.46,Azevedo Alegre
+188,2023-01-04,Livro,Papelaria,29,490.43,Ribeiro do Campo
+189,2023-02-04,Livro,Papelaria,13,307.96,Montenegro da Mata
+190,2023-07-11,Sandália,Calçados,12,321.96,Duarte das Flores
+191,2023-02-18,Livro,Papelaria,95,281.86,Novaes Grande
+192,2023-01-17,Camiseta,Vestuário,46,54.59,Leão
+193,2023-06-21,Notebook,Eletrônicos,2,365.93,Rocha da Serra
+194,2023-08-08,Livro,Papelaria,35,278.25,Guerra da Prata
+195,2023-06-07,Livro,Papelaria,87,230.95,da Rosa
+196,2023-02-15,Smartphone,Eletrônicos,81,456.13,Costela das Pedras
+197,2023-01-06,Smartphone,Eletrônicos,90,156.0,Martins dos Dourados
+198,2023-04-09,Calça,Vestuário,8,266.57,Rocha de Cunha
+199,2023-08-21,Tênis,Calçados,93,351.84,Vieira de Vieira
+200,2023-02-06,Camiseta,Vestuário,26,400.27,Ribeiro
