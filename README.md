@@ -70,8 +70,3 @@ O projeto está organizado da seguinte forma:
 - SQL  
 
 ---
-
-## 6. Próximos Passos (Opcional)
-- Criar dashboards interativos (ex.: Streamlit ou Power BI)  
-- Analisar top produtos por categoria  
-- Avaliar impacto de datas sazonais e promoções  
