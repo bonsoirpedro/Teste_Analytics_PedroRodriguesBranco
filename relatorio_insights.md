@@ -1,39 +1,6 @@
 # Relatório de Vendas - 2023
 
-## 1. Introdução
-Este relatório apresenta uma análise exploratória do dataset de vendas fictícias gerado para o período de **01/01/2023 a 31/12/2023**.  
-O objetivo é identificar tendências, produtos mais vendidos e padrões de comportamento ao longo do ano.
-
----
-
-## 2. Estrutura do Dataset
-- **ID**: Identificador único da venda  
-- **Data**: Data da transação  
-- **Produto**: Nome do produto vendido  
-- **Categoria**: Categoria do produto  
-- **Quantidade**: Número de unidades vendidas  
-- **Preco**: Valor unitário do produto
-
----
-
-## 3. Análise Exploratória
-
-### 3.1. Volume de vendas mensal
-📈 Tendência geral de vendas ao longo de 2023:  
-`img/tendencia_vendas_mensais.png`
-
-### 3.2. Top 5 produtos mais vendidos
-| Produto      | Categoria    | Total de Vendas (R$) |
-|--------------|--------------|----------------------|
-| Livro        | Papelaria    | 446109.22            |
-| Smartphone   | Eletrônicos  | 339086.81            |
-| Notebook     | Eletrônicos  | 336625.45            |
-| Calça        | Vestuário    | 331454.50            |
-| Tênis        | Vestuário    | 305659.93            |
-
----
-
-## 4. Conclusões
+## Conclusões
 
 - A categoria **Papelaria** lidera o faturamento total do ano, seguida por Eletrônicos e Vestuário.   
 - **Calçados** apresentou o menor total, representando cerca de 20.39% das vendas totais.
@@ -42,5 +9,12 @@ O objetivo é identificar tendências, produtos mais vendidos e padrões de comp
 - Há clara **sazonalidade nas vendas**, especialmente para Papelaria e Eletrônicos.  
 - Estratégias de marketing e estoque devem considerar os meses de maior venda para maximizar o faturamento.  
 - Calçados apresenta maior volatilidade, sugerindo necessidade de análise mais detalhada para planejamento de estoque.
+
+## Próximos passos
+
+- Obter dados de onde são realizados as compras, para aumentar a rastreabilidade e identificar possíveis gargalos regionais.
+- Desenvolver dashboards interativos para melhorar a visualização dos dados
+- Traçar perfis de clientes e implementar avaliações nas compras
+- Há a necessidade também de verificar sazonalidades de vendas através de modelos estatísticos, por exemplo.
 
 ---  
