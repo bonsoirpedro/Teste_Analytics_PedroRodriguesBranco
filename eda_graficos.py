@@ -49,6 +49,7 @@ plt.text(min_mes, vendas_mensais.min(), f'⬇ {vendas_mensais.min():,.0f}',
          ha='center', va='top', fontsize=9, color='red')
 
 plt.grid(alpha=0.3)
+plt.savefig('tendencia_vendas_mensais.png', bbox_inches='tight')
 plt.show()
 
 # Análise por Categoria

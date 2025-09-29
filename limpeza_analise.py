@@ -1,13 +1,10 @@
 # Importando as bibliotecas necessárias
-from faker import Faker
 import numpy as np
 import pandas as pd
 import random
 
 # Vamos fixar as seeds para garantir a reprodutibilidade
 seed_valor = 42
-faker = Faker('pt_BR')
-faker.seed_instance(seed_valor)
 np.random.seed(seed_valor)
 random.seed(seed_valor)
 
@@ -29,7 +26,7 @@ produtos_categorias = [
 # Agora precisamos sortear os produtos para cada registro
 escolhas = np.random.choice(len(produtos_categorias), n)
 
-# gerar os dados fictícios com a bib Faker e numpy
+# gerar os dados
 dados = {
     "ID": np.arange(1, n + 1),
     "Data": pd.to_datetime(np.random.choice(
@@ -37,8 +34,7 @@ dados = {
     "Produto": [produtos_categorias[i][0] for i in escolhas],
     "Categoria": [produtos_categorias[i][1] for i in escolhas],
     "Quantidade": np.random.randint(1, 100, n),
-    "Preco": np.round(np.random.uniform(10.0, 500.0, n), 2),
-    "Cidade": [faker.city() for _ in range(n)]
+    "Preco": np.round(np.random.uniform(10.0, 500.0, n), 2)
 }
 
 df = pd.DataFrame(dados)
@@ -56,7 +52,6 @@ df = df.drop_duplicates()
 # Conversão de tipos de dados, a coluna "Data" deve ser do tipo datetime e as colunas "Produto", "Categoria" e "Cidade" devem ser do tipo categórico
 df["Produto"] = df["Produto"].astype("category")
 df["Categoria"] = df["Categoria"].astype("category")
-df["Cidade"] = df["Cidade"].astype("category")
 df['Data'] = pd.to_datetime(df['Data'])
 
 # Salvar o DataFrame limpo em um arquivo CSV
