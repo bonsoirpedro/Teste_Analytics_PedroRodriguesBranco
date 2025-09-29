@@ -11,10 +11,10 @@ O projeto está organizado da seguinte forma:
 
 ```text
 ├── dados/
-│   └── dados_vendas_2023.csv         # Dados brutos
+│   └── dados_clean.csv         # Dados limpos
 │
 ├── src/
-│   ├── limpeza_analise.py            # Limpeza dos dados
+│   ├── limpeza_analise.py            # Criação, limpeza e análise dos dados
 │   ├── eda_graficos.py               # Análise exploratória e gráficos
 │   ├── create_db.py                  # Criação do banco DuckDB
 │   └── consultas_sql.sql             # Queries SQL utilizadas
